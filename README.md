@@ -61,19 +61,20 @@ LAST UPDATE - 28 Jul 2017
 
 INSTALLATION
 
+- Download and unzip. Rename the folder to "OP1".
 - Please note that folders in the "MIDI Remote Scripts" folder must not contain dashes. Otherwise python will fail to import the module.
 
 - Mac OSX
 
  Right click on Live App bundle and click "Show Package Contents"
  Navigate to "Contents\App-Resources\MIDI Remote Scripts"
- Drop OP-1 folder into MIDI Remote Scripts Folder
+ Drop OP1 folder into MIDI Remote Scripts Folder
 
 - Windows
 
  Look for Ableton Live executable file
  Look for the folder MIDI Remote Scripts
- Drop OP-1 folder into MIDI Remote Scripts Folder
+ Drop OP1 folder into MIDI Remote Scripts Folder
 
 - Finalize
 
@@ -84,6 +85,11 @@ INSTALLATION
 
 ==
 
-Developer: Nuno Santos (Imaginando, Lda)
+Developers: 
+- Original Implementation by Nuno Santos (Imaginando, Lda)
+- Jozef Henzl (https://github.com/pcppcp)
+- Marc Tran Du Trieu (https://github.com/marctdt)
+
+
 
 For related questions please use the contact form at www.imaginando.pt
