@@ -1,30 +1,28 @@
 # INSTALLATION
 
-- Download and unzip. Rename the folder to "OP1".
-- Please note that folders in the "MIDI Remote Scripts" folder must not contain dashes. Otherwise python will fail to import the module.
+1. Download and unzip. Rename the folder to "OP1".
+1. Please note that folders in the "MIDI Remote Scripts" folder must not contain dashes. Otherwise python will fail to import the module.
 
 ## Mac OSX
 
- Right click on Live App bundle and click "Show Package Contents"
- Navigate to "Contents\App-Resources\MIDI Remote Scripts"
- Drop OP1 folder into MIDI Remote Scripts Folder
+ 1. Right click on Live App bundle and click "Show Package Contents"
+ 1. Navigate to "Contents\App-Resources\MIDI Remote Scripts"
+ 1. Drop OP1 folder into MIDI Remote Scripts Folder
 
 ## Windows
-
- Look for Ableton Live executable file
- Look for the folder MIDI Remote Scripts
- Drop OP1 folder into MIDI Remote Scripts Folder
+ 1. Look for the folder MIDI Remote Scripts
+    1. (default location is  ( C:\ProgramData\Ableton\'Live 10 Suite'\Resources\'MIDI Remote Scripts')
+ 1. Drop OP1 folder into MIDI Remote Scripts Folder
 
 ## Finalize
 
- Go to Ableton Live MIDI preferences
- Choose OP1 Control Surface
+ 1. Go to Ableton Live MIDI preferences
+ 1. Choose OP1 Control Surface
 
-- For operation details give a look on TE-OP1-Mapping-Guide.pdf
+- For operation details give a look on [TE-OP1-Mapping-Guide.pdf](https://teenage.engineering/_img/54b7f9bf8681400300255cab_original.pdf)
 
 
-===
-
+***
 # Updates
 
 LAST UPDATE - 22 Mar 2021
